@@ -1,8 +1,20 @@
 {
-  "users": [
-    { "id": "1", "name": "Bataa", "age": 24 },
-    { "id": "2", "name": "Saraa", "age": 35 },
-    { "id": "3", "name": "Od", "age": 18 },
-    { "id": "4", "name": "Od", "age": 18 }
+  "employees": [
+    {
+      "eid": "1",
+      "firstname": "Naraa",
+      "lastname": "Davaa",
+      "email": "naraa@gmail.com",
+      "position": "Developer",
+      "profileImg": "https://img.daisyui.com/images/profile/demo/2@94.webp"
+    },
+    {
+      "eid": "1",
+      "firstname": "Saraa",
+      "lastname": "Od",
+      "email": "saraa@gmail.com",
+      "position": "Singer",
+      "profileImg": "https://img.daisyui.com/images/profile/demo/2@94.webp"
+    }
   ]
 }
